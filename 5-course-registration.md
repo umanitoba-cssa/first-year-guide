@@ -1,55 +1,35 @@
 # Course Registration
 
-Embarking on your university journey means taking charge of your course registration. While this responsibility might seem daunting, with the right approach, you can navigate it smoothly and set yourself up for success.
+Taking charge of your course registration is one of the first real responsibilities you'll encounter at university. While it might seem overwhelming at first, especially coming from high school where schedules were often made for you, it's something most students quickly get comfortable with. The key is understanding that course selection can significantly impact your degree path - a single oversight might mean delaying graduation or missing out on essential classes. But don't worry, we've all navigated this process and lived to tell the tale.
 
-📚 Step 1: Familiarize Yourself with Essential Resources
+Before you even look at courses, set aside time to thoroughly review the university's official resources. The [First Year Planning Guide](https://issuu.com/firstyearcentre/docs/fypg?fr=sZGJmMjYxMDM4MzM) is incredibly comprehensive and should be your primary reference - think of it as your registration bible. Pay special attention to degree requirements and prerequisite chains. The [Steps to Registration](https://umanitoba.ca/registrar/registration/registration-steps) guide covers practical aspects like checking for holds on your account that might block you from registering. Many students skip this step and regret it later when they discover they've missed a critical requirement or deadline.
 
-Before diving into registration, equip yourself with the following resources:
+## Planning Your Courses
 
-First Year Planning Guide: This comprehensive guide provides detailed information on course selection and degree requirements.
+Once you understand the requirements, start mapping out your terms. This isn't something to do the night before registration opens. Use the Class Schedule in Aurora to explore options, keeping in mind that courses like COMP 1010 and 1020 often fill quickly. 
 
-Steps to Registration: This guide outlines the registration process, including how to check your eligibility and resolve any holds on your account.
+Here's a practical tip from experienced students: well before your registration time, compile the CRNs (Course Reference Numbers) for all your preferred courses in a simple text document. When your registration window opens, you can quickly paste them all into Aurora's registration system at once. This method beats searching for courses individually and can mean the difference between getting into a full class or being waitlisted.
 
-Aurora Registration Tutorials: These tutorials offer step-by-step instructions on using the Aurora system for course registration.
+## Understanding Registration Timing
 
-🗂️ Step 2: Plan Your Courses in Advance
+Your registration time slot is determined by your GPA (for returning students) or admission average (for new students). Unofficially, a GPA around 3.0 (B) will get you into most required courses, but 3.5 (B+) is safe to get you into whatever you need.
 
-Compile Course Reference Numbers (CRNs): List the CRNs of the courses you intend to take each term. This preparation allows for quick and efficient registration once your registration time opens.
+For summer registration, the process works differently - your initial spot is determined by the last two digits of your student number. But here's the good news: new spots open daily during summer registration, so even if you get a later slot, you'll likely still find openings. The real pressure is for Fall and Winter terms where high-demand courses can fill within hours.
 
-Use the Course Catalogue and Class Schedule: Access these through your Aurora account to explore available courses, prerequisites, and scheduling options.
+Registration timeslots show up on Aurora a certain period before the actual registration begin; set an alarm 30 minutes prior. You want to be there on the dot inputting those CRNs!
 
-⏰ Step 3: Understand Your Registration Time
+## Navigating Common Hurdles
 
-Registration Time: Your assigned registration time determines when you can begin registering for courses. This is based on factors like your academic standing and student status.
+A few common issues to watch for:
 
-Summer Term Registration: For the Summer term, registration is open to all students after the initial week, so your specific registration time is less critical.
+* Many international students discover too late that their high school prerequisites (especially Pre-Calculus 40S) haven't been properly recorded. If you don't see these listed in Aurora, contact an advisor immediately - they can often provide temporary overrides while you sort out documentation. 
 
-🛠️ Step 4: Resolve Any Holds on Your Account
+* If you're transferring from another institution or faculty, ensure your transfer credits appear in Aurora before registration. Fewer required courses means less chance of waitlist headaches. Speaking of waitlists - they're unfortunately a reality in our CS program. While the department adds sections each year, your best defense is registering the moment your window opens and maintaining solid grades (since GPA determines future registration priority).
 
-Check for Holds: Before your registration time, ensure there are no holds on your account that could prevent you from registering.
+If you find yourself on a waitlist, don't panic. Add yourself immediately and monitor your university email - spots often open during the first week of classes as students adjust schedules. Just remember: being on a waitlist doesn't guarantee entry, so always have backup courses ready.
 
-Address Holds Promptly: If you find any holds, contact the appropriate office immediately to resolve them.
+If you're struggling with prerequisites, course conflicts, or technical issues, reach out early to your [academic advisor](https://umanitoba.ca/science/student-experience/academic-advising). They've helped thousands of students through registration snags and can often find solutions you might not see.
 
-🧭 Step 5: Navigate the Waitlist System
+One last tip: if a course is putting your other grades at risk, it's better to VW (voluntarily withdraw) early than struggle through and damage your GPA. There's always another semester.
 
-Waitlist Functionality: If a course is full, you can add yourself to the waitlist. If a spot becomes available, you'll be notified via your UM email.
-
-Waitlist Position: Your position on the waitlist indicates your order; however, this is not a guarantee of a spot in the course.
-
-Eligibility for Waitlisting: Ensure you meet all prerequisites and co-requisites before adding yourself to a waitlist.
-
-🧾 Step 6: Confirm Your Registration
-
-Finalizing Registration: After adding courses, review your selections and confirm your registration.
-
-Regularly Check Your Schedule: Monitor your class schedule to ensure all courses are correctly registered and no conflicts exist.
-
-💡 Additional Tips
-
-GPA Considerations: A higher GPA can improve your registration time for Fall and Winter terms.
-
-Transfer Credits: If you're transferring from another institution, ensure your credits are properly recorded to avoid registration issues.
-
-Seek Assistance: If you encounter difficulties, don't hesitate to contact the First Year Centre or your academic advisor for guidance.
-
-By following these steps and utilizing available resources, you can navigate the course registration process with confidence and set a solid foundation for your academic journey.
+The registration process gets easier each term as you become familiar with Aurora and degree requirements. What feels daunting now will become routine by second year. Just remember to double-check your schedule before the add/drop deadline - catching conflicts early saves so much stress down the line.
