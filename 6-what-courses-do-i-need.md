@@ -1,10 +1,10 @@
 # What Courses Do I Need?
 
-If you've done your homework (like reviewing the [First Year Planning Guide](https://umanitoba.ca/science/first-year-planning-guide)), you'll know that course selection directly impacts your ability to progress in Computer Science. Here's the key thing: **every new student starts as "Undeclared"** in either University 1 or the Faculty of Science. Second-year COMP courses are restricted to students who've officially declared their program. Your top priority in first year? Meeting the requirements to declare a Computer Science major *before registration opens next July*.
+If you've done your homework (like reviewing the [First Year Planning Guide](https://issuu.com/firstyearcentre/docs/fypg?fr=sZGJmMjYxMDM4MzM)), you'll know that course selection directly impacts your ability to progress in Computer Science. Here's the key thing: **every new student starts as "Undeclared"** in either University 1 or the Faculty of Science. Second-year COMP courses are restricted to students who've officially declared their program. Your top priority in first year? Meeting the requirements to declare a Computer Science major *before registration opens next July*.
 
 ## Declaring Your Program: The Essentials
 - **Credit Requirement**: Complete **24 credit hours** (typically 8 courses)  
-- **GPA Baseline**: Maintain at least a **2.0 DGPA** (C average), though competitive programs require higher  
+- **GPA Baseline**: Maintain at least a **2.5 DGPA** (C+ average), though competitive programs require higher  
 - **Deadline**: Declare via Aurora or contact [Science Academic Advising](https://umanitoba.ca/science/student-experience/academic-advising) **before July** when Fall/Winter registration starts  
 - **Flexibility**: You can switch programs later if you meet different requirements  
 
@@ -56,7 +56,7 @@ Review these *minimums* carefully in the [Academic Calendar](https://umanitoba.c
 - **GPA > Speed**: Taking 4 courses/semester with strong grades beats overloading and risking poor marks. You *need* specific grades to declare.  
 - **Summer Strategy**: MATH 1240 is more manageable as a solo Summer course. Use this to recover if needed.
 - **Transfer Credits**: AP/IB credits for MATH 1500/1700? Replace them with STAT 1150 or COMP electives *early*.  
-- **Full-Time Status**: Maintain ≥9 credits/term for scholarships, loans, and residency requirements.  
+- **Full-Time Status**: Maintain ≥9 credits/term for scholarships, loans, and residency requirements.
 - **Backup Plans**: Joint CS - Maths, ironically, has no MATH 1300 or MATH 1240 requirements. You just need to declare *a* program to unlock second year COMP courses (note that Data Science, as not an official CS program, doesn't unlock 2280). If you find yourself unable to meet some requirements but are able to meet others, declare first, register for courses, make up later!
 
 **Always verify** course sequences using the [Academic Calendar](https://umanitoba.ca/calendar) and consult advisors when registering. Your path is unique – design it wisely!
