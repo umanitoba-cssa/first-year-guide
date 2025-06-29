@@ -43,6 +43,8 @@ Some final notes:
 
 With all this in mind, we can finally move on to the actual schedule!
 
+---
+
 ### Standard Schedule (applicable for Computer Science Major/Honours)
 ```markdown
 Fall (12 credits):
@@ -73,7 +75,7 @@ If you succeed with this schedule in your first year at university, you're on pr
 
 This is the only scenario where we'll offer specific plans for specific degrees; if you're starting in a different term and wish to pursue these degrees, we're sorry we can't accommodate you, but we hope you recognize this section is already long enough!
 
-Joint Mathematics version:
+#### Joint Mathematics
 
 |Fall|Winter|Summer|
 |---------|---------|---------|
@@ -85,7 +87,7 @@ Joint Mathematics version:
 > Despite not being listed as requirements, you want MATH 1220 + 1240 to be there so you can unlock second year MATH courses.
 > While you are expected to take the "honours" version of the MATH courses (1230/1232/1220), you can take the easier variants of the MATH courses (1500/1700/1300) as long as you get an A. Doing the second will boost your GPA, although they'll prepare you less for second year MATH courses. It's a tradeoff!
 
-Joint Physics version:
+#### Joint Physics
 
 |Fall|Winter|Summer|
 |---------|---------|---------|
@@ -100,7 +102,7 @@ Flexible: MATH 1300, STAT 1150
 > STAT 1150 can also be done in Summer. We put it in Winter to emphasize that it can't be put off, unlike the listed Summer options.
 > MATH 1240 isn't needed for anything and you can take it Fall second year, but you can also take care of it now. There are many \[W\] Arts courses offered in the second half of Summer, if you want to clear the entire table.
 
-Joint Statistics version:
+#### Joint Statistics
 
 |Fall|Winter|Summer|
 |---------|---------|---------|
@@ -114,7 +116,9 @@ Flexible: MATH 1300, MATH 1240, or \[W\] Arts Course
 > You can theoretically put off all your MATH to second year, but it's best to get Calculus out of the way while your pre-calc is still fresh.
 > MATH 1240 is required for MATH 2080, a second-year course only offered in Fall. However, we've also heard reports of success that you don't really need to do 2080 in your second year. Regardless, you should probably still do 1240 and 1300 in your first year, but they are able to be delayed to your second.
 
-Data Science version: Try to replicate the CS version! Don't skimp out on MATH 1240/1300!
+#### Data Science
+
+Try to replicate the CS version! Don't skimp out on MATH 1240/1300!
 
 ### Tryhard Option (Only if confident!)
 
