@@ -1,41 +1,41 @@
 # Student Groups
 Perhaps against expectations, the Computer Science students in the University of Manitoba are quite as lively and sociable as they are smart and hardworking! The [Computer Science Lounge Discord](https://discord.umanitobacssa.ca/) is the biggest hub for Computer Science students in the university, and is currently maintained by the following three groups:
 
-1. University of Manitoba Computer Science Students’ Association (ours!): [Website](https://www.umanitobacssa.ca/), [Instagram](https://www.instagram.com/umanitobacssa/)
+1. **University of Manitoba Computer Science Students’ Association** (ours!): [Website](https://www.umanitobacssa.ca/), [Instagram](https://www.instagram.com/umanitobacssa/)
 - The main governing body of current and incoming Computer Science students
 - Represent the undergraduate student body in conversation with the Department
 - Host social and educational events, and wrote this document (with more to come!)
 - Also has a Lounge at EITC E1-586 - come by anytime!
 
-2. University of Manitoba Women in Computer Science: [Website](https://umwics.vercel.app/), [Instagram](https://www.instagram.com/umwics/)
+2. **University of Manitoba Women in Computer Science**: [Website](https://umwics.vercel.app/), [Instagram](https://www.instagram.com/umwics/)
 - Student group supporting women and gender minorities in Computer Science
 - Host social events and workshops to create a safe space for women to connect
 - Collaborated with big companies like Bold, IQmetrix, Ubisoft, Amazon,...
 - **NEW**: Has a Lounge for *women and gender minorities* at EITC E2-599!
 
-3. .devClub: [Website](https://devclub.ca/), [Instagram](https://www.instagram.com/umdevclub/)
+3. **.devClub**: [Website](https://devclub.ca/), [Instagram](https://www.instagram.com/umdevclub/)
 - Environment for students to connect and explore a variety of areas in tech
 - Host workshops to develop technical skills and socials to simply hang out
 - Annual hackathon .devHacks that invites students of all skill levels to be creative
 
 Other notable groups, while not directly affiliated, that you might be interested in are:
 
-1. CREWSEC: [Discord](https://discord.gg/xBzHbhYXNh)
+1. **CREWSEC**: [Discord](https://discord.gg/xBzHbhYXNh).
 
 Subset of the [CUSEC - Canadian University Software Engineering Conference](https://www.instagram.com/cusecofficial/)’s organization team to encourage and assist students who attend the event.
 
-3. UM AI: [Website](https://umai.pro/), [Instagram](https://www.instagram.com/uofm_ai/)
+2. **UM AI**: [Website](https://umai.pro/), [Instagram](https://www.instagram.com/uofm_ai/)
 
 Host workshops and panels to educate students about and to better utilize AI.
 
-5. University of Manitoba Programming Projects Club: [Instagram](https://www.instagram.com/uofmppc/)
+3. University of Manitoba Programming Projects Club: [Instagram](https://www.instagram.com/uofmppc/)
 
 Empower Computer Science students on personal and group project development.
 
-7. University of Manitoba Robotics Team: [Website](https://umrt.ca/), [Instagram](https://www.instagram.com/umroboticsteam/)
+4. University of Manitoba Robotics Team: [Website](https://umrt.ca/), [Instagram](https://www.instagram.com/umroboticsteam/)
 
 Group of students competing in the Canadian International Rover Challenge 2024.
 
-9. Computing Councils of Canada: [Website](https://www.ccubed.dev/), [Instagram](https://www.instagram.com/ccubed_dev/)
+5. Computing Councils of Canada: [Website](https://www.ccubed.dev/), [Instagram](https://www.instagram.com/ccubed_dev/)
 
 National organization of CS students across Canadian universities.
