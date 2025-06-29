@@ -6,7 +6,11 @@ At the University of Manitoba, Computer Science is one of the most popular progr
 
 ## The Core Question
 
-If you're wondering whether Computer Science is for you, start with this simple question: *Am I curious?* Do you find yourself asking how things work? Do you enjoy solving puzzles or figuring out how to make things better? If you answered yes, you're already thinking like a computer scientist.
+If you're wondering whether Computer Science is for you, start with this simple question:
+
+***Am I curious?***
+
+Do you find yourself asking how things work? Do you enjoy solving puzzles or figuring out how to make things better? If you answered yes, you're already thinking like a computer scientist.
 
 Computer Science isn't just about writing code. It's about problem-solving, creativity, and making a tangible impact. Whether it's developing a mobile app, designing a website, or building a game, Computer Science empowers you to bring your ideas to life.
 
