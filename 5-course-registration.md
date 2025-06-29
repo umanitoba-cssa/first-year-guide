@@ -8,7 +8,7 @@ Before you even look at courses, set aside time to thoroughly review the univers
 
 Once you understand the requirements, start mapping out your terms. This isn't something to do the night before registration opens. Use the Class Schedule in Aurora to explore options, keeping in mind that courses like COMP 1010 and 1020 often fill quickly. 
 
-Here's a practical tip from experienced students: well before your registration time, compile the CRNs (Course Reference Numbers) for all your preferred courses in a simple text document. When your registration window opens, you can quickly paste them all into Aurora's registration system at once. This method beats searching for courses individually and can mean the difference between getting into a full class or being waitlisted.
+Here's a practical tip: well before your registration time, **compile the CRNs (Course Reference Numbers) for all your preferred courses in a text document**. When your registration window opens, you can quickly paste them all into Aurora's registration system at once. This method beats searching for courses individually and can mean the difference between getting into a full class or being waitlisted.
 
 ## Understanding Registration Timing
 
@@ -30,6 +30,6 @@ If you find yourself on a waitlist, don't panic. Add yourself immediately and mo
 
 If you're struggling with prerequisites, course conflicts, or technical issues, reach out early to your [academic advisor](https://umanitoba.ca/science/student-experience/academic-advising). They've helped thousands of students through registration snags and can often find solutions you might not see.
 
-One last tip: if a course is putting your other grades at risk, it's better to VW (voluntarily withdraw) early than struggle through and damage your GPA. There's always another semester.
+Lastly, if a course is putting your other grades at risk, it's better to VW (voluntarily withdraw) early than struggle through and damage your GPA. There's always another semester.
 
 The registration process gets easier each term as you become familiar with Aurora and degree requirements. What feels daunting now will become routine by second year. Just remember to double-check your schedule before the add/drop deadline - catching conflicts early saves so much stress down the line.
