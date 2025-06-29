@@ -2,11 +2,11 @@
 
 Transitioning to university means more than just tougher classes. The whole rhythm of your life changes - managing your own schedule, balancing coursework with everything else, and navigating new responsibilities. The following tips condense everything we know about self-care. 
 
-**Note**: We understand that some, or none, of the following, may apply for your specific situation. It is impossible for any two people to have experienced the same life, and thus, it is impossible to make tips that will work for everybody; this applies to the Studying Tactics section earlier, too. Regardless, if you've read this far, we're proud of you for seeking support in any form. We hope that these tips, if not something you haven't already known, help you reinforce habits that will improve your physical and mental health, and consequently your university life!
+**Note**: We understand that some, or none, of the following, may apply for your specific situation. It is impossible for any two people to have experienced the same life, and thus, it is impossible to make tips that will work for everybody; this applies to the [Studying Tactics](./3-studying-tactics.md) section earlier, too. Regardless, if you've read this far, we're proud of you for seeking support in any form. We hope that these tips, if not something you haven't already known, help you reinforce habits that will improve your physical and mental health, and consequently your university life!
 
 ## 1. **Sleep**
 
-When deadlines pile up, it's tempting to cut back on sleep. But those extra hours awake often backfire. Getting consistent 7-9 hours makes a real difference in how well your brain functions. You'll notice lectures make more sense, programming problems feel less frustrating, and your mood stays steadier during stressful weeks. Think of it as nightly maintenance for your most important processor - your brain. As that one Sonic image says, don't trust your brain after 9 p.m.!
+When deadlines pile up, it's tempting to cut back on sleep. But those extra hours awake often backfire. Getting consistent 7-9 hours makes a real difference in how well your brain functions. You'll notice lectures make more sense, programming problems feel less frustrating, and your mood stays steadier during stressful weeks. Think of it as nightly maintenance for your most important processor - your brain. As [that one Sonic image](https://x.com/EliteSonicFan/status/1515801952831029248) says, don't trust your brain after 9 p.m.!
 
 ## 2. **Eat Healthy**
 
