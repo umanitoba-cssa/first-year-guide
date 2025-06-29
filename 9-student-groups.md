@@ -28,14 +28,14 @@ Subset of the [CUSEC - Canadian University Software Engineering Conference](http
 
 Host workshops and panels to educate students about and to better utilize AI.
 
-3. University of Manitoba Programming Projects Club: [Instagram](https://www.instagram.com/uofmppc/)
+3. **University of Manitoba Programming Projects Club**: [Instagram](https://www.instagram.com/uofmppc/)
 
 Empower Computer Science students on personal and group project development.
 
-4. University of Manitoba Robotics Team: [Website](https://umrt.ca/), [Instagram](https://www.instagram.com/umroboticsteam/)
+4. **University of Manitoba Robotics Team**: [Website](https://umrt.ca/), [Instagram](https://www.instagram.com/umroboticsteam/)
 
 Group of students competing in the Canadian International Rover Challenge 2024.
 
-5. Computing Councils of Canada: [Website](https://www.ccubed.dev/), [Instagram](https://www.instagram.com/ccubed_dev/)
+5. **Computing Councils of Canada**: [Website](https://www.ccubed.dev/), [Instagram](https://www.instagram.com/ccubed_dev/)
 
 National organization of CS students across Canadian universities.
