@@ -32,4 +32,5 @@ While the guide itself is as comprehensive as we could make it, it’s still hig
 If you have any questions, feel free to send us an email at [cssa@umanitoba.ca](mailto:cssa@umanitoba.ca), or join our [Discord](https://discord.umanitobacssa.ca/) and we’ll be happy to help you! We hope you find the First Year Guide useful!
 
 Best regards,
+
 University of Manitoba Computer Science Students’ Association
