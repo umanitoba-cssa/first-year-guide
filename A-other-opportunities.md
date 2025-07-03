@@ -31,8 +31,8 @@ The competitve and coveted [**Undergraduate Research Awards (URA)**](https://uma
 - Fields: AI, cybersecurity, bioinformatics, and more
 
 *How to apply*:  
-1️⃣ Find a professor researching your interest area
-2️⃣ Submit a joint application (January deadline)
+1. Find a professor researching your interest area
+2. Submit a joint application (January deadline)
 
 > *Pro tip*: Search early, and be genuine! While they list out potential supervisors on the website, you can look for *any Professor/Associate Professor/Assistant Professor* in the Department and ask them to supervise you, as long as their research genuinely interests you. You can see a list of all our faculty members [here](https://umanitoba.ca/science/directory/computer-science).
 
