@@ -1,3 +1,10 @@
+---
+title: "Tuitions and Scholarships"
+description: "Learn about costs and financial aids"
+author: "Computer Science Students' Association"
+date: "2023-06-29"
+---
+
 # Tuition and Scholarships
 
 Before embarking on your university journey, it's essential to consider the financial aspects, especially if you're an international student. While this guide doesn't delve into exhaustive details, we've compiled some key resources and information to help you get started:

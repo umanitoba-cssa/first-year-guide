@@ -1,4 +1,11 @@
-# What Degree should I Do?
+---
+title: "What degree should I do?"
+description: "Learn about different CS degrees"
+author: "Computer Science Students' Association"
+date: "2023-06-29"
+---
+
+# What degree should I do?
 
 Choosing your specific program path in Computer Science can feel overwhelming, but it’s important to remember: **all these degrees unlock exciting careers in tech**. Your choice should reflect your academic strengths, interests, and long-term goals—not perceived prestige. Below is a breakdown of your options:
 

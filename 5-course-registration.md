@@ -1,3 +1,10 @@
+---
+title: "Course Registration"
+description: "Registering for courses on Aurora"
+author: "Computer Science Students' Association"
+date: "2023-06-29"
+---
+
 # Course Registration
 
 Taking charge of your course registration is one of the first real responsibilities you'll encounter at university. While it might seem overwhelming at first, especially coming from high school where schedules were often made for you, it's something most students quickly get comfortable with. The key is understanding that course selection can significantly impact your degree path - a single oversight might mean delaying graduation or missing out on essential classes. But don't worry, we've all navigated this process and lived to tell the tale.

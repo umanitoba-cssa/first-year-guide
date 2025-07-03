@@ -1,3 +1,10 @@
+---
+title: "Recommended Course Plans"
+description: "How to plan your courses"
+author: "Computer Science Students' Association"
+date: "2023-06-29"
+---
+
 # Recommended Course Plans
 *This is a highly opinionated guide based on the CSSA executive team's personal experience and years of observations from our Discord community. Never finalize your schedule before consulting an [academic advisor](https://sci.umanitoba.ca/advising/#current-students).*
 

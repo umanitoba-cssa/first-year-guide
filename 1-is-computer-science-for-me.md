@@ -1,3 +1,10 @@
+---
+title: "Is Computer Science for me?"
+description: "Find out if you're a right fit for CS"
+author: "Computer Science Students' Association"
+date: "2023-06-29"
+---
+
 # Is Computer Science for Me?
 
 So, you're considering Computer Science. Maybe you're intrigued by the idea of building apps or games. Perhaps someone suggested it because you're good with logic or math. Or maybe you're just trying to figure out what to do with your life. Whatever the reason, you're not alone in this.

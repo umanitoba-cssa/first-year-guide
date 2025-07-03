@@ -1,4 +1,11 @@
-# What Courses Do I Need?
+---
+title: "What courses do I need?"
+description: "Learn about CS degree requirements"
+author: "Computer Science Students' Association"
+date: "2023-06-29"
+---
+
+# What courses do I need?
 
 If you've done your homework (like reviewing the [First Year Planning Guide](https://issuu.com/firstyearcentre/docs/fypg?fr=sZGJmMjYxMDM4MzM)), you'll know that course selection directly impacts your ability to progress in Computer Science. Here's the key thing: **every new student starts as "Undeclared"** in either University 1 or the Faculty of Science. Second-year COMP courses are restricted to students who've officially declared their program. Your top priority in first year? Meeting the requirements to declare a Computer Science major *before registration opens next July*.
 

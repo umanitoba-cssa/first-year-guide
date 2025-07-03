@@ -1,3 +1,10 @@
+---
+title: "Student Groups"
+description: "Get involved in the community"
+author: "Computer Science Students' Association"
+date: "2023-06-29"
+---
+
 # Student Groups
 Perhaps against expectations, the Computer Science students in the University of Manitoba are quite as lively and sociable as they are smart and hardworking! The [Computer Science Lounge Discord](https://discord.umanitobacssa.ca/) is the biggest hub for Computer Science students in the university, and is currently maintained by the following three groups:
 

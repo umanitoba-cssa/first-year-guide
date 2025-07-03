@@ -1,3 +1,10 @@
+---
+title: "Studying Tactics"
+description: "Tips and tricks for university studies"
+author: "Computer Science Students' Association"
+date: "2023-06-29"
+---
+
 # Studying Tactics
 
 If you're coming from high school, you'll likely notice university courses move faster and require more independent learning. It's not just the courses; the lifestyle changes also play a heavy factor towards your capability to succeed. Ace students in high schools have struggled to put up the same numbers in university. Don't worry - this is normal, and we've all been there. Here are some approaches that have helped many students before you:

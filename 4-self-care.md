@@ -1,8 +1,15 @@
+---
+title: "Self-Care"
+description: "Maintenance of the body and mind"
+author: "Computer Science Students' Association"
+date: "2023-06-29"
+---
+
 # Self-Care
 
 Transitioning to university means more than just tougher classes. The whole rhythm of your life changes - managing your own schedule, balancing coursework with everything else, and navigating new responsibilities. The following tips condense everything we know about self-care. 
 
-**Note**: We understand that some, or none, of the following, may apply for your specific situation. It is impossible for any two people to have experienced the same life, and thus, it is impossible to make tips that will work for everybody; this applies to the [Studying Tactics](./3-studying-tactics.md) section earlier, too. Regardless, if you've read this far, we're proud of you for seeking support in any form. We hope that these tips, if not something you haven't already known, help you reinforce habits that will improve your physical and mental health, and consequently your university life!
+**Note**: We understand that some, or none, of the following, may apply for your specific situation. It is impossible for any two people to have experienced the same life, and thus, it is impossible to make tips that will work for everybody; this applies to the [Studying Tactics](./3-studying-tactics) section earlier, too. Regardless, if you've read this far, we're proud of you for seeking support in any form. We hope that these tips, if not something you haven't already known, help you reinforce habits that will improve your physical and mental health, and consequently your university life!
 
 ## 1. **Sleep**
 
