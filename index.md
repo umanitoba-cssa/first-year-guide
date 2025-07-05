@@ -2,18 +2,18 @@
 title: "First Year Guide"
 description: "An essential guide for incoming first year Computer Science students"
 author: "Computer Science Students' Association"
-date: "2023-06-29"
+date: "2025-07-05"
 ---
 
 # First Year Guide
 
-Welcome to the First Year Guide to the Computer Science program in the University of Manitoba! As the name suggests, this guide contains information on everything you need to know before starting your Computer Science journey. Regardless of whether you’re an experienced programmer or are still on the fence about taking this huge leap, this guide contains everything you need to know to succeed in your first year of studies and beyond!
+Welcome to the First Year Guide to the Computer Science program in the University of Manitoba! As the name suggests, this guide contains information on everything you need to know before starting your Computer Science journey. Regardless of whether you’re an experienced programmer or are still on the fence about taking this huge leap, this guide contains all the wisdom we can impart for you to succeed in your first year of studies and beyond!
 
-If you feel overwhelmed and only need to read one thing, we recommend you check out the [Recommended course plans](./first-year-guide/8-recommended-course-plans) section! You can find a quick navigation to any section of your interest in the left sidebar!
+If you feel overwhelmed and only wish to read one thing, we recommend you check out the [Recommended course plans](./first-year-guide/8-recommended-course-plans) section! You can find a quick navigation to any section of your interest in the left sidebar!
 
 ## Overview
 
-As of the current version (July 1st, 2025), this guide covers:
+As of the current version (July 5th, 2025), this guide covers:
 - **Choosing Computer Science as your major**. Ever wondered if Computer Science would be the right major for you? This topic is suited for prospective students to get to know what Computer Science in University of Manitoba is all about.
 - **Tuitions and scholarships**. New to budgeting? Get an overview of what kind of funds you'll need to spend, and can earn throughout university.
 - **University preparations**. Adjusting to university can get confusing and overwhelming, especially coming from high school. Never discourage yourself and get to know what you can do to prepare yourself for university.

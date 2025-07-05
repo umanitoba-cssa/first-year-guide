@@ -2,7 +2,7 @@
 title: "Studying Tactics"
 description: "Tips and tricks for university studies"
 author: "Computer Science Students' Association"
-date: "2023-06-29"
+date: "2025-07-05"
 ---
 
 # Studying Tactics

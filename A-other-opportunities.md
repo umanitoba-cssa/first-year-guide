@@ -2,7 +2,7 @@
 title: "Other Opportunities"
 description: "Co‑op, research, part‑time jobs, and growth programs"
 author: "Computer Science Students' Association"
-date: "2023-06-29"
+date: "2025-07-05"
 ---
 
 # Other Opportunities

@@ -2,7 +2,7 @@
 title: "Self-Care"
 description: "Maintenance of the body and mind"
 author: "Computer Science Students' Association"
-date: "2023-06-29"
+date: "2025-07-05"
 ---
 
 # Self-Care

@@ -2,7 +2,7 @@
 title: "What courses do I need?"
 description: "Learn about CS degree requirements"
 author: "Computer Science Students' Association"
-date: "2023-06-29"
+date: "2025-07-05"
 ---
 
 # What courses do I need?

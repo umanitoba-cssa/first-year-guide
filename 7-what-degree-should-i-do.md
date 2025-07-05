@@ -2,7 +2,7 @@
 title: "What degree should I do?"
 description: "Learn about different CS degrees"
 author: "Computer Science Students' Association"
-date: "2023-06-29"
+date: "2025-07-05"
 ---
 
 # What degree should I do?
