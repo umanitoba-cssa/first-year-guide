@@ -13,7 +13,9 @@ Transitioning to university means more than just tougher classes. The whole rhyt
 
 ## 1. **Sleep**
 
-When deadlines pile up, it's tempting to cut back on sleep. But those extra hours awake often backfire. Getting consistent 7-9 hours makes a real difference in how well your brain functions. You'll notice lectures make more sense, programming problems feel less frustrating, and your mood stays steadier during stressful weeks. Think of it as nightly maintenance for your most important processor - your brain. As [that one Sonic image](./sonicimage.jpeg) says, don't trust your brain after 9 p.m.!
+When deadlines pile up, it's tempting to cut back on sleep. But those extra hours awake often backfire. Getting consistent 7-9 hours makes a real difference in how well your brain functions. You'll notice lectures make more sense, programming problems feel less frustrating, and your mood stays steadier during stressful weeks. Think of it as nightly maintenance for your most important processor - your brain. As that one Sonic image says, don't trust your brain after 9 p.m.!
+
+![](sonicimage.jpeg)
 
 ## 2. **Eat Healthy**
 
